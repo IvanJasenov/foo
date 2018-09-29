@@ -7,6 +7,9 @@ def fizbuzz(n):
 		print("fizzBuzz");
 	else:
 		print("nothing");
+
+// max range
 // n <= 2^64 / 2 - 1
+
 n = 11;
 fizbuzz(n);

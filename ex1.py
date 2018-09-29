@@ -9,6 +9,6 @@ def fizbuzz(n):
 		print("nothing");
 
 # range for max int on 64 bit machine
-# n <= 2^64 / 2 - 1
+# n <= 2^64 / 2 - 1, -1 for the zero(0)
 n = 11;
 fizbuzz(n);

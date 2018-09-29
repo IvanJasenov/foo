@@ -7,7 +7,7 @@ def fizbuzz(n):
 	elif (n % 5 == 0 and n % 3 == 0):
 		print("fizzBuzz");
 	else:
-		print("nothing");
+		print("nothing in common");
 
 # range just for max int on 64 bit machine
 # n <= 2^64 / 2 - 1, -1 for the zero(0)
